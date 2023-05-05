@@ -1,6 +1,6 @@
 # Latihan Node JS Dasar
+![nodejs_dasar](https://user-images.githubusercontent.com/127992374/236553190-025127a0-43b4-4255-92fe-87aa4c790e4a.png)
 
----
 **Cara Pakai:**
 > npm install
 
