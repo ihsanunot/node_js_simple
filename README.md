@@ -14,4 +14,4 @@ habis itu buat run nya :
 5. Nama database buah_daftar
 6. Nama Table nya buahan
 
-Ihsan.
+Ihsan. (nodejs-mysql-dua-master)
